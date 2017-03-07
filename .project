@@ -7,5 +7,5 @@
 	<buildSpec>
 	</buildSpec>
 	<natures>
-	</natures>
+	<java>org.eclipse.jdt.core.javanature</java></natures>
 </projectDescription>
