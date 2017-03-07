@@ -6,6 +6,5 @@
 	</projects>
 	<buildSpec>
 	</buildSpec>
-	<natures>
-		<java>org.eclipse.jdt.core.javanature</java></natures>
+	<nature>org.eclipse.jdt.core.javanature</nature>
 </projectDescription>
